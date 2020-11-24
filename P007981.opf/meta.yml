@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25770
   title: ཚངས་མགུར་ཞིབ་འཇུག
-  volume: ''
+  volume:
+    db55533355ca4f61945a74ac7913549b:
+      image_group_id: I1KG25772
+      title: Volume 1 of tshangs mgur zhib 'jug
+      volume_number: 1
+      total_pages: 258
   author: ''
+ebook_metadata:
+  title: ཚངས་མགུར་ཞིབ་འཇུག
+  author: ''
+  sku: P007981
+  cover: cover.jpg
+  layers:
+  - pagination
