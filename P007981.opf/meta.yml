@@ -1,15 +1,16 @@
-id: opecha:P007981
+id: P007981
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25770
   title: ཚངས་མགུར་ཞིབ་འཇུག
-  volume:
+  author: ''
+  volumes:
     db55533355ca4f61945a74ac7913549b:
       image_group_id: I1KG25772
       title: Volume 1 of tshangs mgur zhib 'jug
       volume_number: 1
       total_pages: 258
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཚངས་མགུར་ཞིབ་འཇུག
   author: ''
