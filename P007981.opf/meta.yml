@@ -5,11 +5,12 @@ source_metadata:
   title: ཚངས་མགུར་ཞིབ་འཇུག
   author: ''
   volumes:
-    e20ccba49983464ab95e4740d9bf655d:
+    db55533355ca4f61945a74ac7913549b:
       image_group_id: I1KG25772
-      title: ''
+      title: Volume 1 of tshangs mgur zhib 'jug
       volume_number: 1
       total_pages: 258
+      base_file: v001.txt
 ebook_metadata:
   title: ཚངས་མགུར་ཞིབ་འཇུག
   author: ''
